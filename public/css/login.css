@@ -1,0 +1,52 @@
+.alasnya{
+    background-color: #F6DFE3;
+}
+
+.btn-pink{
+    background-color:#F6DFE3 ;
+    min-width: 150px;
+    color: #707070 ;
+}
+.btn-pink:hover{
+    background-color:#707070 ;
+    color:white;
+}
+
+.kotak{
+    width: auto;
+    height: 400px;
+    margin:auto;
+    margin-right:15px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: white;
+    border-radius: 20px;
+}
+.box-login {
+    display: flex;
+    justify-content:space-between;
+    margin: 10px;
+    border-bottom: 1px solid #F6DFE3;
+    padding: 5px 0;
+  }
+  .box-login i {
+    font-size: 25px;
+    color: #707070;
+    padding: 0px 0;
+  }
+  .box-login input {
+    width: 90%;
+    padding: 5px 0;
+    background: none;
+    border: none;
+    outline: none;
+    color: #707070;
+    font-size: 18px;
+  }
+  .box-login input::placeholder {
+    color: #707070;
+    font-size: 18px;
+  }
+
+
+
