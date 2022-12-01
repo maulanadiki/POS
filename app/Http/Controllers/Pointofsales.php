@@ -13,7 +13,10 @@ class Pointofsales extends Controller
      */
     public function index()
     {
-        //
+        return view('layout.layout');
+    }
+    public function Login(){
+        return view ('layout.login');
     }
 
     /**
